@@ -52,7 +52,7 @@
     "connect-sse": "^1.2.0",
     "exit-hook": "^1.1.1",
     "express": "^4.16.2",
-    "get-port": "^3.2.0",
+    "get-port": "^7.0.0",
     "http-proxy": "^1.17.0",
     "matcher": "^1.1.0",
     "mkdirp": "^0.5.1",
