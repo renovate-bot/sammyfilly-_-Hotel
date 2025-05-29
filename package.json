@@ -67,7 +67,7 @@
     "tinydate": "^1.0.0",
     "unquote": "^1.1.1",
     "untildify": "^3.0.2",
-    "update-notifier": "^2.3.0",
+    "update-notifier": "^7.0.0",
     "user-startup": "^0.2.1",
     "vhost": "^3.0.2",
     "yargs": "^10.1.2"
