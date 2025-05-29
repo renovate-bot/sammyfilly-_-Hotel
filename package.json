@@ -62,7 +62,7 @@
     "respawn": "^2.4.1",
     "selfsigned": "^1.10.2",
     "server-ready": "^0.3.1",
-    "sudo-block": "^2.0.0",
+    "sudo-block": "^5.0.0",
     "tildify": "^1.1.2",
     "tinydate": "^1.0.0",
     "unquote": "^1.1.1",
